@@ -1,0 +1,33 @@
+#sect1{
+    background-color: aqua;
+    border: 5px;
+    border-style: solid;
+    border-color: gray;
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;    
+}
+
+
+.rojo{
+    color: red;
+}
+
+.derecha{
+    text-align: right;
+}
+
+
+
+
+.fondo{
+    background-color: lightgray;
+}
+
+p{
+    text-align: center;
+}
+
